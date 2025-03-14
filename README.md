@@ -10,3 +10,6 @@ Good luck!
     - Hold Left Click: Shoot missiles
     - Middle Mouse Button: Boost (when available)
     - Q: Exit Game
+
+### Notes
+    Each 3D model was made by myself, however, I do not own the credits for all the music/sound effects, which I downloaded for free from https://pixabay.com/
